@@ -3,7 +3,9 @@
 A Dockerized 3-Tier Web Application for note taking.
 
 🏗️ Architecture (3-Tier)
+
 Presentation Layer → Frontend (UI)
+
 Application Layer → Backend (Node+Express.Js)
 Data Layer → Database (MongoDB)
 Each layer runs in an isolated Docker container connected via a Docker network.
