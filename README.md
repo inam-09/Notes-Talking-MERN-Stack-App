@@ -1,4 +1,5 @@
 🗒️ Note-Talking Application
+
 A Dockerized 3-Tier Web Application for note taking.
 
 🏗️ Architecture (3-Tier)
